@@ -1,0 +1,31 @@
+export const Colors = {
+  splashHeader: 'white',
+  // theme: '#2f5d62',
+  // primary_color: '#2b2b5b',
+  primary_color: '#252554',
+  // secondary_color: '#6b79f1',
+  secondary_color: '#00b3ff',
+  white_text: 'white',
+  black_text: 'black',
+  screen_bg_color: 'white',
+  border_color: '#f0f0f0',
+  border_color2: '#d6d6d6',
+  // blackHexColor: "#00000075",
+  blackHexColor: "#00000099",
+  yellowHexColor: "#f2be2260",
+  transparent: "transparent",
+  gray: "gray",
+  grayBox: "#5a5e5e",
+  white: 'white',
+  // grayBox:"#5d6363",
+  // --------------------------
+
+  homeIconColor: 'white',
+  homeBoxTitle: 'white',
+  cityBoxColor: '#2f5d62',
+  drawerText: 'black',
+  drawerStar: '#ffd000',
+  drawerDisclaim: '#009dff',
+  drawerPolicy: '#b36239',
+
+}
